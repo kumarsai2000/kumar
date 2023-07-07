@@ -1,5 +1,11 @@
+this is first branch
+adding some extra data
 this is first branch changes
+<<<<<<< HEAD
 this is second branch
 jjrojirjtrtjrktjrk
 kfmjkijeofe
 ojefjekfef
+=======
+this is second branch
+>>>>>>> master
